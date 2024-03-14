@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: btnAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 581f9fe5b8ac6fb48993d2d85afbd101, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 83d552027bbcab04ea409bda4578bff1, type: 3}
+  - {fileID: 21300000, guid: 401f9567db7755c43b9d8dc7e40887b6, type: 3}
+  - {fileID: 21300000, guid: 8131c3ca1eb41a84c8aaeb0a9906f2bd, type: 3}
+  - {fileID: 21300000, guid: faaa4dbc7e727e541bbaea2f0682d0d2, type: 3}
+  - {fileID: 21300000, guid: 456bf87d2575b234b9c50be51f5f47fc, type: 3}
+  - {fileID: 21300000, guid: 2f0a739ef11751a4999304e628a22d41, type: 3}
+  - {fileID: 21300000, guid: 4d5003de03ff23e419057cfc645bef43, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 'guid '
+  - 'next left '
+  - 'next Right '
+  - 'home '
+  - exit
+  - 'play '
+  - 'reset  '
+  m_RenderDataMap: {}
+  m_Tag: btnAtlas
+  m_IsVariant: 0
